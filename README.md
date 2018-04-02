@@ -1,3 +1,3 @@
 # help4help
 
-Na verdade estou muito triste, não consigo fazer mais nada.
+Plataforma que une instituições carentes com doadores, com intuito de facilitar o acesso e a comunicação entre eles.
